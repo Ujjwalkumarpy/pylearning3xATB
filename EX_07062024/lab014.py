@@ -19,3 +19,10 @@ print(d)
 e = True
 print(e)
 print(type(a))
+f=10
+print(f)
+print (type(f))
+g=10.5
+print(type(g))
+
+
